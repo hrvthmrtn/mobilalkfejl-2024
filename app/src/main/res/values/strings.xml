@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Online_aram_project</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="mobile_number">Telefonszám</string>
+    <string name="address">Felhasználás helye</string>
+    <string name="person">Magánszemély</string>
+    <string name="company">Cég</string>
+    <string name="online_current_dict">Online áram bediktálás</string>
+    <string name="online_current_dictation">Online áram diktálás</string>
+    <string name="dict_name">Név</string>
+    <string name="dictation_email">E-mail cím</string>
+    <string name="electric_meter">Jelenlegi óraállás (kWh)</string>
+    <string name="dict">Bediktálom</string>
+    <string name="default_web_client_id">878457225304-p1cdvt0atoiivb86b5o02dbnelbfq2oc.apps.googleusercontent.com</string>
+    <string name="email">E-mail</string>
+    <string name="profil">Profil</string>
+    <string name="settings">Beállítások</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="login_as_guest">Bejelentkezés vendégként</string>
+    <string name="login_with_google">Bejelentkezés Google fiókkal</string>
+    <string-array name="phone_modes">
+        <item>Otthoni</item>
+        <item>Munkahely</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+</resources>
